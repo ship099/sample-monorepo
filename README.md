@@ -1,4 +1,4 @@
-# sample-monorepo
+# sample-monorepo sca
 
 [![Build Status](https://github.com/wixplosives/sample-monorepo/workflows/tests/badge.svg)](https://github.com/wixplosives/sample-monorepo/actions)
 
